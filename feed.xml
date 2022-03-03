@@ -1,0 +1,44 @@
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+    <channel>
+        <title>Acquisition of Chess Knowledge in AlphaZero</title>
+        <link>https://trev77.github.io/papercast-trial/</link>
+        <language>en-us</language>
+        <atom:link href="" rel="self" type="application/rss+xml"/>
+        <copyright>Rights to paper content are reserved by the authors for each paper. I make no claim to ownership or copyright of the content of this podcast.</copyright>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:author>trev77</itunes:author>
+        <itunes:summary></itunes:summary>
+        <itunes:keywords>Machine Learning, Natural Language Processing, Artificial Intelligence</itunes:keywords>
+        <description></description>
+        <itunes:owner><itunes:name>trev77</itunes:name><itunes:email>tchchan@ucdavis.edu</itunes:email></itunes:owner>
+        <itunes:image href="https://trev77/github.io/papercast-trial/cover.jpg"/>
+        
+        <itunes:category text="Mathematics"></itunes:category>
+        
+        <itunes:category text="Tech News"></itunes:category>
+        
+        <itunes:category text="Courses"></itunes:category>
+        
+
+        
+        <item>
+        <title>Acquisition of Chess Knowledge in AlphaZero</title>
+        <itunes:title>Acquisition of Chess Knowledge in AlphaZero</itunes:title>
+        <itunes:author>Gabriel Simmons</itunes:author>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary><![CDATA[What is learned by sophisticated neural network agents such as AlphaZero? This question is of both scientific and practical interest. If the representations of strong neural networks bear no resemblance to human concepts, our ability to understand faithful explanations of their decisions will be restricted, ultimately limiting what we can achieve with neural network interpretability. In this work we provide evidence that human knowledge is acquired by the AlphaZero neural network as it trains on the game of chess. By probing for a broad range of human chess concepts we show when and where these concepts are represented in the AlphaZero network. We also provide a behavioural analysis focusing on opening play, including qualitative analysis from chess Grandmaster Vladimir Kramnik. Finally, we carry out a preliminary investigation looking at the low-level details of AlphaZero's representations, and make the resulting behavioural and representational analyses available online.]]></itunes:summary>
+        <description><![CDATA[What is learned by sophisticated neural network agents such as AlphaZero? This question is of both scientific and practical interest. If the representations of strong neural networks bear no resemblance to human concepts, our ability to understand faithful explanations of their decisions will be restricted, ultimately limiting what we can achieve with neural network interpretability. In this work we provide evidence that human knowledge is acquired by the AlphaZero neural network as it trains on the game of chess. By probing for a broad range of human chess concepts we show when and where these concepts are represented in the AlphaZero network. We also provide a behavioural analysis focusing on opening play, including qualitative analysis from chess Grandmaster Vladimir Kramnik. Finally, we carry out a preliminary investigation looking at the low-level details of AlphaZero's representations, and make the resulting behavioural and representational analyses available online.]]></description>
+        <enclosure url="https://trev77.github.io/papercast-trial/data/mp3s/2111.09259v2.Acquisition_of_Chess_Knowledge_in_AlphaZero.mp3" length="" type="audio/mpeg"/>
+        <itunes:duration>6644.136</itunes:duration>
+        <itunes:season>1</itunes:season>
+        <itunes:episode></itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <guid isPermaLink="false">https://trev77.github.io/papercast-trial/data/mp3s/2111.09259v2.Acquisition_of_Chess_Knowledge_in_AlphaZero.mp3</guid>
+        <pubDate></pubDate>
+        <itunes:explicit>NO</itunes:explicit>
+        </item>
+        
+
+    </channel>
+</rss>
